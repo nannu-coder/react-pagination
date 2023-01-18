@@ -2,7 +2,7 @@
 
 To get started, you will need to have Node.js and npm (Node Package Manager) installed on your machine.
 
-- Clone the repository: git clone `https://github.com/nannu-coder/react-dark-mood`
+- Clone the repository: git clone `https://github.com/nannu-coder/react-pagination`
 - Navigate to the project directory: `cd my-react-app`
 - Install the dependencies: `npm install`
 - Start the development server: `npm start`
